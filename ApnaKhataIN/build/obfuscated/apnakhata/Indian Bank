@@ -1,0 +1,10 @@
+$Balance Enquiry$ BALAVL |Account No| |MPin| <9444394443>
+$Last 3 Transaction$ LATRAN |Account No| |MPin| <9444394443>
+$Last 3 Transaction for default Account$ LATRAN |MPin| <9444394443>
+$Issued Cheque status Enquiry$ CHQSTS |Cheque No| |Account No| |MPin| <9444394443>
+$Issued Cheque status Enquiry for default account$ CHQSTS |Cheque No| |MPin| <9444394443>
+$Deposted Cheque Status Enquiry$ DCHQSTS |Cheque No| |Account No| |MPin| <9444394443>
+$Deposted Cheque Status Enquiry for Default account$ DCHQSTS |Cheque No| |MPin| <9444394443>
+$Change Mobile Banking PIN$ CHGPIN |New MPin| |MPin| <9444394443>
+$Help on How to Use$ HELP |Code| |MPin| <9444394443>
+*180042500000* @http://www.indianbank.in/@ 

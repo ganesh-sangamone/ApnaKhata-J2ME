@@ -1,0 +1,13 @@
+$Registration for Mobile banking$ SREG |Customer ID| <+919664552255>
+$Registration for Mobile banking with an Account as Primary Account$ SREG |Customer ID| |14 digits Account No| <+919664552255>
+$Changing the Primary Account Number$ SACC |Customer ID| |Account No| <+919664552255>
+$Balance Inquiry of Primary Account$ SBAL |Customer ID| <+919664552255>
+$Balance Inquiry of Other Account$ SBAL |Customer ID| |Account No| <+919664552255>
+$Inquiry of First 3 Term Deposit Accounts$ STDQ |Customer ID| <+919664552255>
+$TD Inquiry of a Specific Account$ STDQ |Customer ID| |Account No| <+919664552255>
+$Status Enquiry of Cheque of PrimaryAccount$ SCHQ |Customer ID| |Cheque No| <+919664552255>
+$Enquiry of Last 5 Transactions of Primary Account$ STXN |Customer ID| <+919664552255>
+$Enquiry of Last 5 Transactions of Other Account$ STXN |Customer ID| |Account No| <+919664552255>
+$Stopping of Cheque on PrimaryAccount$ SCHS |Customer ID| |Cheque No| <+919664552255>
+$Disable SMS facility$ SDEL |Customer ID| <+919664552255>   
+*+918202571181* @http://www.syndicatebank.in/@

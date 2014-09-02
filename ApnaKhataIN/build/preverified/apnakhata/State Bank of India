@@ -1,0 +1,20 @@
+$Getting User id and Mpin$ Mbsreg | | <9223440000>
+$Change Mpin$ SmPin |User Id| |Old MPin| |New MPin| <9223440000>
+$Accept Terms and Conditions available at www.sbi.co.in$ Saccept |User Id| |MPin| <9223440000>
+$Balance Enquiry$ Sbal |User Id| |MPin| <9223440000>
+$Mini Statement of Account$ Smin |User Id| |MPin| <9223440000>
+$Mobile Top-up without One Time Password(OTP)$ Stopup |User Id| |MPin| |Telecom Operator| |Mobile No| |Amount| <9223440000>
+$Mobile Top-up with One Time Password(OTP)$ OTP |OTP| Stop up |User Id| |MPin| |Telecom Operator| |Mobile No| |Amount| <9223440000>
+$DTH Recharge without One Time Password(OTP)$ Sdth |User Id| |MPin| |Service Provider| |DTH Serial Number| |Amount| <9223440000>
+$DTH recharge with One Time Password(OTP)$ OTP |OTP| Sdth |User Id| |MPin| |Service Provider| |DTH Serial Number| |Amount| <9223440000>
+$Top up of Mobile wallet without One Time Password(OTP)$ Smobitop |User Id| |MPin| |Wallet ID| |Amount| <9223440000>
+$Top up of Mobile wallet with One Time Password(OTP)$ OTP |OTP| Smobitop |User Id| |MPin| |Wallet ID| |Amount| <9223440000>
+$Forgot MPIN$ Sfpin |User ID| <9223440000>
+$De-register from Service$ Sdereg | | <9223440000>
+$IMPS fund transfer without One Time Password(OTP)$ IMPS |Mobile No| |MMID| |Amount| |User Id| |MPin| |Purpose| <9223440000>
+$IMPS Fund Transfer with One Time Password(OTP)$ OTP |OTP| IMPS |Mobile No| |MMID| |Amount| |User Id| |MPin| |Purpose| <9223440000>
+$IMPS Fund Transfer based on IFSC and Account No (P2A) without OTP$ IMPS |Beneficiary Acc No| |Beneficiary IFSC| |Amount| |UserId| |MPin| |Purpose| <9223440000>
+$IMPS Fund transfer based on IFSC and Account No (P2A) with OTP$ OTP |OTP| IMPS |Beneficiary Account No| |Beneficiary IFSC| |Amount| |UserId| |MPin| |Purpose| <9223440000>
+$IMPS Merchant Payments without One Time Password(OTP)$ MIMPS |Merchant Mobile No| |Merchant MMID| |Amount| |User Id| |MPin| |Payment Reference| <9223440000>
+$IMPS Merchant Payments with One Time Password(OTP)$ OTP |OTP| MIMPS |Merchant Mobile No| |Merchant MMID| |Amount| |User Id| |MPin| |Payment Reference| <9223440000>
+*18004253800* @http://www.sbi.co.in/@

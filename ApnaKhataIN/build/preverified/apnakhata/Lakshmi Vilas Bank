@@ -1,0 +1,10 @@
+$Register for SMS Banking$ LVB REG |Customer No| |Account No| <9282441155>
+$Change default CASA account$ LVB ACC |Customer No| |Account No| <9282441155>
+$Balance Enquiry of default CASA account$ LVB BAL |Customer No| <9282441155>
+$Balance Enquiry of the specified CASA account$ LVB BAL |Customer No| |Account No| <9282441155>
+$Enquiry of first 3 Term Deposit accounts$ LVB TDQ |Customer No| <9282441155>
+$Cheque status enquiry of default CASA account$ LVB CHQ |Customer No| |Cheque No| <9282441155>
+$Last 5 transaction enquiry$ LVB TXN |Customer No| <9282441155>
+$Last 5 transaction enquiry of other account$ LVB TXN |Customer No| |Account No| <9282441155>
+$Disable SMS banking$ LVB DEL |Customer No| <9282441155>
+*18004252233* @http://www.lvbank.com/@ 

@@ -1,0 +1,11 @@
+$Account Balance Enquiry$ DLBBAL |CID (Customer ID)| <56161> 
+$Last 5 Transaction Details$ DLBTXN |CID (Customer ID)| <56161>
+$Transaction Statement Request$ DLBSMR |CID (Customer ID)| <56161> 
+$Change Primary Account$ DLBCPA |CID (Customer ID)| |Account No| <56161>
+$Cheque Book Request$ DLBCBR |CID (Customer ID)| <56161>
+$Cheque Status Request$ DLBCSR |CID (Customer ID)| |Cheque No| <56161>
+$Stop Cheque Request$ DLBSCR |CID (Customer ID)| |Cheque No| <56161>
+$Request for help menu$ DLBHLP | | <56161>
+$Register Mobile No$ DLBMOBILE || <5676751>
+$Request MMID$ MMID || <5676751>
+*18004251747* @http://www.dhanbank.com/@ 

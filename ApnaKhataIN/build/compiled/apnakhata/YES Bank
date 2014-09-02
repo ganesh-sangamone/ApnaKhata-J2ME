@@ -1,0 +1,10 @@
+$Mobile Registration$ YESREG |Customer ID| <+919840909000>
+$Account Balance Inquiry$ YESBAL |Customer ID| <+919840909000>
+$Last 5 days transactions$ YESTXN |Customer ID| <+919840909000>
+$Cheque Status Inquiry$ YESCST |Customer ID| |Cheque No| <+919840909000>
+$Stop Cheque Request$ YESSTP |Customer ID| |Cheque No| <+919840909000>
+$Cheque Book Request$ YESCHQ |Customer ID| <+919840909000>
+$Details of fixed deposits linked to the account$ YESFDQ |Customer ID| <+919840909000>
+$Request for an account statement$ YESSTM |Customer ID| <+919840909000>
+$List of all above supported Requests$ YESHLP |Customer ID| <+919840909000>
+*+912230993600* @http://www.yesbank.in/@ 

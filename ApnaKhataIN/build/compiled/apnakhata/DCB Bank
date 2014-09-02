@@ -1,0 +1,17 @@
+$Balance Enquiry (Primary Account)$ BAL | | <9821878789>
+$Balance Enquiry (Second Account)$ BAL |14 digits Account No| <9821878789>
+$Last 5 transactions (Primary Account)$ STMT | | <9821878789>
+$Last 5 transactions (Second Account)$ STMT |14 digits Account No| <9821878789>
+$Cheque Book Request (Primary Account)$ CHQBOOK | | <9821878789>
+$Cheque Book Request (Second Account)$ CHQBOOK |14 digits Account No| <9821878789>
+$Cheque status enquiry (Primary Account)$ STAT |Cheque No| <9821878789>
+$Cheque status enquiry (Second Account)$ STAT |Cheque No| |14 digits Account No| <9821878789>
+$Stop payment of cheque (Primary Account)$ STOP |Cheque No| <9821878789>
+$Stop payment of cheque (Second Account)$ STOP |Cheque No| |14 digits Account No| <9821878789>
+$Stop payment of range of cheques (Primary Account)$ STOPRANGE |First Cheque No| |Last Cheque No| <9821878789>
+$Stop payment of range of cheques (Second Account)$ STOPRANGE |First Cheque No| |Last Cheque No| |14 digits Account No| <9821878789>
+$Term deposit receipt enquiry (Primary Account)$ TD |Term Deposit No| <9821878789>
+$Term deposit receipt enquiry (Second Account)$ TD |Term Deposit No| |14 digits Account No| <9821878789>
+$Help with SMS Alerts$ H | | <9821878789>
+$Register for SMS Banking$ REG | | <9821878789>
+*18002095363* @http://www.dcbbank.com/@

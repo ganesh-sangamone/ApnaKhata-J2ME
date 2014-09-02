@@ -1,0 +1,22 @@
+$Balance Enquiry (Default Account)$ BAL |Customer ID| |Pin| <9820346920>
+$Balance Enquiry$ BAL |Customer ID| |Pin| |Account No| <9820346920>
+$Fixed Deposits Enquiry$ FD |Customer ID| |Pin| |Account No| <9820346920>
+$Fixed Deposits Enquiry(Default Account)$ FD |Customer ID| |Pin| <9820346920>
+$Last 3 Transactions$ TXN |Customer ID| |Pin| |Account No| <9820346920>
+$Last 3 Transactions (Default Account)$ TXN |Customer ID| |Pin| <9820346920>
+$Cheque Payment Status$ CPS |Customer ID| |Pin| |Cheque No| |Account No| <9820346920>
+$Request for Cheque Book$ CBR |Customer ID| |Pin| |No of Leaves P/M| |Account No| <9820346920>
+$Status of Request for Statement$ STM |Customer ID| |Pin| |FromDate-ToDate| |Account No| <9820346920>
+$Change of PIN$ CPN |Customer ID| |OLDPin| |NEWPin| <9820346920>
+$Demat Inquiry-Free Balance Holdings (Default Account)$ DB |Customer ID| |Pin| |Starts With| <9820346920>
+$Demat Inquiry-Free Balance Holdings$ DB |Customer ID| |Pin| |Starts With| |DPM Client ID| <9820346920>
+$Demat Inquiry-Last 2 Transactions$ DT |Customer ID| |Pin| <9820346920>
+$Pending Bills$ GETBILL |Customer ID| |Pin| |Payee ID| <9820346920>
+$Pay Bill$ PAYBILL |Customer ID| |Pin| |Bill ID| <9820346920>
+$Registered Billers$ MYBILLERS |Customer ID| |Pin| <9820346920>
+$Change Primary Account$ CPA |Customer ID| |Pin| |Account No| <9820346920>
+$Ask for a One Time Password (OTP)$ TRFFUND |MMID| <5676777>
+$Transfer funds$ IMPS |Beneficiary Mobile Number| |Beneficiary MMID| |Amount| |OTP (Get OTP by using "Ask for a One Time Password (OTP)" option)| <567677>
+$To know your MMID$ MMID || <5676777>
+$Help$ HELP | | <9820346920>
+*+912266937000* @http://www.idbi.com/@

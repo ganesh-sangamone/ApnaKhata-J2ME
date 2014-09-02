@@ -1,0 +1,17 @@
+$Balance Enquiry$ BAL |MPin| <56161>
+$Mini Statement$ MINI |MPin| <56161>
+$mPIN Change$ CHANGEPIN |Old Pin| |New Pin| |Confirm New Pin| <56161>
+$Generate MMID$ MMID | | <56161>
+$Cancel MMID$ MMIDCANCEL | | <56161>
+$Fund Transfer-Mobile to Mobile$ FTMM |MPin| |Beneficiary Mobile No| |Amount| <56161>
+$Fund Transfer-Mobile to Account$ FTMA |MPin| |Account No| |Amount| <56161>
+$InterBank Mobile Payment Service(IMPS)$ IMPS |Beneficiary Mobile No| |Beneficiary MMID| |Amount| |MPin| <56161>
+$Mobile Recharge$ MOBREC |MPin| |Mobile No| |Amount| <56161>
+$Stop Cheque Request$ STPCHQ |MPin| |Cheque No| <56161>
+$Block Card Request$ BLKCARD |MPin| <56161>
+$ATM Search-PIN Code Based$ ATM |MPin| |PINCODE| <56161>
+$ATM Search-Location based$ ATMLOC |MPin| |City| |Area| <56161>
+$Branch Search-PIN Code Based$ BRANPIN |MPin| |PINCODE| <56161>
+$Branch Search-Location Based$ BRANLOC |MPin| |City| |Area| <56161>
+$Refer a Friend$ REFER |MPin| |Friend Name| |Friend Mobile No| |Friend Email| <56161>
+* * @http://www.ucobank.com/@

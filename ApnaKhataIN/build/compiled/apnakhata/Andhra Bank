@@ -1,0 +1,7 @@
+$Account Balance Inquiry (Primary Account)$ ABBAL |SMSPassword| <56161>
+$Account balance Inquiry$ ABBAL |Account Number| |SMSPassword| <56161>
+$Transaction Inquiry$ ABTRN |Account Number| |SMSPassword| <56161>	 
+$Cheque status Inquiry$ ABCSI |Cheque Number| |Account Number| |SMSPassword| <56161>
+$Password Change$ ABPIN |New SMSPassword| |Old SMSPassword| <56161>	 
+$Disabling Self$ ABSUS |SMSPassword| <56161>
+*18004251515* @http://andhrabank.in/english/Retail.aspx@ 

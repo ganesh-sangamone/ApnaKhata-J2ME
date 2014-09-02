@@ -1,0 +1,20 @@
+$Account Balance Enquiry$ BAL |Account Number or Nickname| <9880654321>
+$Mini Statement Enquiry$ TRN |Account Number or Nickname| <9880654321>
+$Inquiry Fixed Deposit$ FDE |Account Number or Nickname| <9880654321>
+$Inquiry Loan Account$ LON |Account Number or Nickname| <9880654321>
+$Fund Transfer own Account$ FTO |Account Number or Nickname| |Credit Account Number or Nickname| |Amount| <9880654321>
+$Fund Transfer within Bank$ FTB |Account Number or Nickname| |Credit Account Number or Nickname| |Amount| <9880654321>
+$Fund Transfer NEFT$ FTT |Account Number or Nickname| |Credit Beneficiary Nickname| |Amount| <9880654321>
+$IMPS Funds Transfer$ IMPS |DBMMID| |Credit Mobile Number| |Credit MMID| |Amount| |MPIN| |Remarks| <9880654321>
+$Know my MMID$ MMID | | <9880654321>
+$Feedback to bank$ FBB |Feedback / Complaint| <9880654321>
+$Cheque Status Enquiry$ CPS |Account Number or Nickname| |Cheque Number| <9880654321>
+$Cheque Book Request$ CBR |Account Number or Nickname| <9880654321>
+$Stop Payment of Cheque$ STP |Account Number or Nickname| |Cheque Number| <9880654321>
+$Branch Search$ BRN |Pincode| <9880654321>
+$ATM Search$ ATM |Pincode| <9880654321>
+$KBL Branch IFSC Code$ RTG |Pincode| <9880654321>
+$Cancel MMID$ MMIDCANCEL | | <9880654321>
+$Mobile Recharge$ MOBR |Account Number| |Operator Name or Code| |Mobile Number| |Amount| <9880654321>
+$DTH Recharge$ DTHR |Account Number| |Operator Name or Code| |Subscription Number| |Amount| <9880654321>
+*+918022021507* @http://www.karnatakabank.com/@

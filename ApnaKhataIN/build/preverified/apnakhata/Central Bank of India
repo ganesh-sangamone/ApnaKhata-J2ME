@@ -1,0 +1,8 @@
+$Balance Enquiry$ BALAVL |Account No| |MPin| <9967533228>
+$Last 5 Transaction$ LATRAN |MPin| <9967533228>
+$Change Mobile Banking PIN$ CHGPIN |New MPin| |Old MPin| <9967533228>
+$Issued Cheque status Enquiry$ CHQSTS |Cheque No| |MPin| <9967533228>
+$Help on usage$ Help |MPin| <9967533228>
+$Generate the MMID for IMPS$ MMID | | <9967533228>
+$Send the money through the IMPS$ IMPS |Beneficiary Mobile No| |Beneficiary MMID| |Amount| |MPin| <9967533228> 
+*18002001911* @https://www.centralbankofindia.co.in/@ 

@@ -1,0 +1,11 @@
+$Balance Inquiry$ BALAVL |Account No| <9246211101>
+$Last 5 Transactions$ LATRAN |Account No| <9246211101>
+$Cheque Status Inquiry$ CHQSTS |Cheque No| <9246211101>
+$Request for Cheque Book$ CHQREQ |No of Leaves| |Account No| <9246211101>
+$Stop Payment on a Single Cheque$ STPPAY |Cheque No| |mPIN| <9246211101>
+$Revoke Stopped Cheque$ STPREV |Cheque No| |mPIN| <9246211101>
+$Request for DD Issue$ DDISSU |Name| |Payable At| |Amount| |mPIN| <9246211101>
+$Request for Account Statement$ STMACC |Start Date| |End Date| |Account No| <9246211101>
+$Change mPIN$ CHGPIN |New mPIN| |Old mPIN| <9246211101>
+$Help on usage$ HELP |Code| <9246211101>
+*+913322319144* @https://www.allahabadbank.in/english/home.aspx@ 

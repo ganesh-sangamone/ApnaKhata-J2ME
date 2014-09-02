@@ -1,0 +1,11 @@
+$Transaction details$ TXN |Customer ID| |MPin| <9900654321>
+$Balance enquiry$ BAL |Customer ID| |MPin| <9900654321>
+$Change of mobile banking Pin$ Pin |Customer ID| |Old MPin| |New MPin| <9900654321>
+$Stop payment of cheque$ STP |Customer ID| |Account Type| |Account No| |Cheque No| |MPin| <9900654321>
+$Revocation of stop payment$ REV |Customer ID| |Account Type| |Account No| |Cheque No| |MPin| <9900654321>
+$Cheque Book Request$ CHR |Customer ID| |Account Type| |Account No| |MPin| <9900654321>
+$Account statement request$ AST |Customer ID| |Account Type| |Account No| |Start Date| |End Date| |MPin| <9900654321>
+$Free format request$ FF |Customer ID| |Customer Message| |MPin| <9900654321>
+$Help$ Help |Service Code| |MPin| <9900654321>
+$Configure/Change default Account Number$ ACC |Customer ID| |Account Type| |Account No| |MPin|<9900654321> 
+*04471225000* @http://www.cityunionbank.com/english/home.aspx@ 

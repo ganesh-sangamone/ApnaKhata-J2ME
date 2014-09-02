@@ -1,0 +1,5 @@
+$Get account balance$ PBAL |Account No| |SMS Banking Password| <9773056161>
+$Get last 3 transactions$ PTXN |Account No| |SMS Banking Password| <9773056161>
+$Cheque status inquiry$ PCHQ |Cheque No| |Account No| |SMS Banking Password| <9773056161>
+$Change your SMS Password$ PPWD |New Password| |Old Password| <9773056161>
+*1800221908* @https://www.psbindia.com/@

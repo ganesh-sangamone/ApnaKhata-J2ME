@@ -1,0 +1,8 @@
+$Balance Enquiry$ BAL |Account Nickname| <+919895088888>
+$Mini Statement$ TXN |Account Nickname| <+919895088888>
+$Cheque Status Enquiry$ CPS |Account Nickname| |Cheque no| <+919895088888>
+$To Transfer funds$ IMPS |Beneficiary mobile no| |Beneficiary's full MMID| |Amount to be transferred| |Last 3 digits of MMID of remitter| <+919895088888>
+$For MMID$ MMID || <+919895088888>
+$P2M Push transaction$ MIMPS |Beneficiary Mobile Number| |Benificiary MMID| |Amount| |MPIN| |Reference Number| <+919895088888>
+$Add Received OTP for P2M Push transaction$ OTP |MPIN| <9895088888>
+*18004201199* @http://www.federalbank.co.in/@

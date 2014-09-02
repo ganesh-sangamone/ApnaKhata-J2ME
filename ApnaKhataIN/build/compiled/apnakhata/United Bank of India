@@ -1,0 +1,7 @@
+$Balance Query$ ubal |13 digits Account No| |Password| <56161>
+$Mini Statement$ utran |13 digits Account No| |Password| <56161>
+$Cheque Status$ uchqstat |13 digits Account No| |Cheque No| |Password| <56161>
+$Stop Cheque$ uchqstop |Cheque No| |13 digits Account No| |06| |Password| <56161>
+$Message to Bank$ urm |Message| |Password| <56161>
+$Password Change$ upass |New Password| |Old Password| <56161>
+*18003450345* @http://www.unitedbankofindia.com/English/HomePage.aspx@ 

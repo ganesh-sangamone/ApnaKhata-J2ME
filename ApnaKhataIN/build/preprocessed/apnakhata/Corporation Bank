@@ -1,0 +1,24 @@
+$Activation of Service$ ACTIVATE |PIN| |Last 6 digits of Account Number| <9243717778>
+$Balance Enquiry (Primary Account)$ CBAL | | <9243717778>
+$Balance Enquiry (Non-Primary Account)$ CBAL |Account Number| <9243717778>
+$Last 3 Transactions (Primary Account)$ CTRN | | <9243717778>
+$Last 3 Transactions (Non-Primary Account)$ CTRN |Account Number| <9243717778>
+$Fund Transfer between own accounts$ CFTR |Last 4 digits of Debit Account| |Last 4 digits of Credit Account| |Amount| |PIN| <9243717778>
+$Fund Transfer to 3rd Party Account within Bank$ CTRF |Last 4 digits of Debit Account| |Credit Alias| |Amount| |PIN| <9243717778>
+$Fund Transfer to 3rd Party Account to other Bank$ CNEFT |Last 4 digits of Debit Account| |Credit Alias| |Amount| |PIN| <9243717778>
+$IMPS - Using Mobile Number and MMID$ IMPS |Last 6 digits of Debit Account Number| |Beneficiary Mobile Number| |Beneficiary MMID| |Amount| |PIN| <9243717778>
+$IMPS - Using IFSC and Account Number$ IMPS |Last 6 digits of Debit Account Number| |Beneficiary IFSC| |Beneficiary Account Number| |Amount| |PIN| <9243717778>
+$Cheque Book Request (Primary Account)$ CCBR |Enter P-Personally/C-Courier| |PIN| <9243717778>
+$Cheque Book Request (Non-Primary Account)$ CCBR |Enter P-Personally/C-Courier| |PIN| |Last 4 digits of Account Number| <9243717778>
+$Cheque Status Request (Primary Account)$ CCSR |Cheque Number| <9243717778> 
+$Cheque Status Request (Non-Primary Account)$ CCSR |Cheque Number| |Last 4 digits of Account Number|<9243717778>
+$Change Primary Account$ CCPA |Last 4 digits of New Primary Account Number| <9243717778>
+$Renewal of Deposit$ CREN |PIN| |Time Deposit Account Number| <9243717778>
+$Change SMS Banking PIN$ CCPN |Old PIN| |New PIN| <9243717778>
+$GOLD Rate$ CGOLD | | <9243717778>
+$Cancellation of SMS Banking$ CCAN |Last 4 digits of Account Number| <9243717778>
+$Generation of MMID$ genmmid | | <9243717778>
+$Retrieve MMID$ MMID |Last 6 digits of Account Number| <9243717778>
+$Getting Mobile Banking Link$ CMOB |4 digit SMS Banking PIN| <9243717778>
+$Generate OTP$ OTP |4 digit PIN| <9243717778>
+*18004252407* @http://www.corpbank.com/@ 

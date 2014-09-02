@@ -1,0 +1,29 @@
+$Balance Enquiry$ BAL |SMSPIN| <+919223173927>
+$Mini Statement$ MINI |SMSPIN| <+919223173927>
+$Fund Transfer-Mobile to Mobile (Payment request)$ FTMM |SMSPIN| |Beneficiary Mobile No| |Amount| <+919223173927>
+$Fund Transfer-Mobile to Mobile (Payment Confirmation)$ CONFMM |SMSPIN| |TXNID| <+919223173927>
+$Fund Transfer-Mobile to Account (Payment request)$ FTMA |SMSPIN| |Beneficiary Account No| |Amount| <+919223173927>
+$Fund Transfer-Mobile to Account(Payment Confirmation)$ CONFMA |SMSPIN| |TXN ID| <+919223173927>
+$NEFT Beneficiary Registration$ NEFTREG |SMSPIN| |IFSCCODE| |Account No| |Nickname| <+919223173927>
+$NEFT Payment Request$ NEFTPAY |SMSPIN| |Nickname| |Amount| <+919223173927>
+$NEFT Payment Confirmation$ CONFNEFT |SMSPIN| |TXN ID| <+919223173927>
+$Register for IMPS$ MMID | | <+919223173927>
+$Cancel MMID$ MMID CANCEL | | <+919223173927>
+$Register IMPS Beneficiary$ ADDIMPS |SMSPIN| |Beneficiary MMID| |Beneficiary Mobile No| |Beneficiary NickName| <+919223173927>
+$IMPS Payment$ RIMPS |SMSPIN| |NickName| |Amount| <+919223173927>
+$Quick IMPS$ IMPS |SMSPIN| |Beneficiary Mobile No| |Beneficiary MMID| |Amount| <+919223173927>
+$Mobile Recharge$ MOBREC |SMSPIN| |Mobile No| |Amount| <+919223173927>
+$Cheque Status$ ENQCHQ |SMSPIN| |Cheque No| <+919223173927>
+$Stop Cheque$ STCHQ |SMSPIN| |Cheque No| <+919223173927>
+$SMS PIN CHANGE$ CHANGESPIN |Old Pin| |New Pin| |New Pin| <+919223173927>
+$Card Hot List$ BLKCARD |SMSPIN| |Card No| <+919223173927>
+$Cheque Book Request$ CHQBK |SMSPIN| |No Of Cheque Leaves| <+919223173927>
+$Demand Draft Request$ DDREQ |SMSPIN| |Amount| |Date of Pickup DDMMYYYY| |Preferred Hour| |Preferred Minute| <+919223173927>
+$Demand Draft Confirmation$ DDREQCF |SMSPIN| |TXNID| |Beneficiary Name| |Payable At| <+919223173927>
+$Debit Card Request$ DBTRQ |SMSPIN| <+919223173927>
+$Account Statement Request$ STMT |SMSPIN| |Start Date| |End Date| <+919223173927>
+$Bank ATM Locator-PINCODE based$ ATM |SMSPIN| |PINCODE| <+919223173927>
+$Bank ATM Locator-Location based$ ATMLOC |SMSPIN| |City| |Area| <+919223173927>
+$Bank Branch Locator-PINCODE based$ BRANPIN |SMSPIN| |PINCODE| <+919223173927>
+$Bank Branch Locator-Location based$ BRANLOC |SMSPIN| |City| |Area| <+919223173927>
+*+912242207777* @http://www.indusind.com/@ 

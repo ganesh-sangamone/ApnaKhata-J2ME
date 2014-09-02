@@ -1,0 +1,10 @@
+$Balance Enquiry$ CANBAL |User ID| |MPIN| <5607060>
+$Mini Statement$ CANTXN |User ID| |MPIN| <5607060>
+$Intra-Bank Funds Transfer (within Canara Bank)$ CANTRF |User ID| |MPIN| |Beneficiary Nickname| |Amount| <5607060>
+$Adding Beneficiary$ CANADDBEN |User ID| |MPIN| |Beneficiary Nickname| |Account Number| <5607060>
+$Deleting Beneficiary$ CANDELBEN |User ID| |MPIN| |Beneficiary Nickname| <5607060>
+$Generating MMID$ CANGENMMID |User ID| |MPIN| <5607060>
+$Canceling MMID$ CANCNCLMMID |User ID| |MPIN| <5607060>
+$Retrieving MMID$ CANRETMMID |User ID| |MPIN| <5607060>
+$Changing MPIN$ CANCMPIN |User ID| |Old MPIN| |New MPIN| <5607060>
+*18004250018* @http://www.canarabank.com/@

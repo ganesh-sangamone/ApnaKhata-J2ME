@@ -1,0 +1,36 @@
+$Balance Enquiry (Default Account)$ IBAL | | <9215676766>
+$Last 3 Transactions (Default Account)$ ITRAN | | <9215676766>
+$Cheque Status Enquiry (Default Account)$ ICSI |Cheque No| <9215676766>
+$Stop Cheque Request (Default Account)$ ICSR |Cheque No| <9215676766>
+$Cheque Book Request (Default Account)$ ICBR | | <9215676766>
+$View Presented Bills (Default Account)$ IVIEW |Biller Nickname| <9215676766>
+$Prepaid Mobile Recharge$ MTOPUP |10 digits Mobile No| |OperatorName| |Amount| |Last 6 digits of Bank Account No| <9222208888>
+$DTH Recharge$ DTH |Subscriber ID| |OperatorName| |Amount| |Last 6 digits of Bank Account No| <9215676766>
+$Retrieve MMID$ MMID |Last 4 digits of Account No| <9215676766>
+$Balance Enquiry$ IBAL |Last 6 digits of Account No| <9215676766>
+$Last 3 transactions$ ITRAN |Last 6 digits of Account No| <9215676766>
+$Cheque Status Enquiry$ ICSI |Cheque No| |Last 6 digits of Account No| <9215676766>
+$Stop Cheque Request$ ISCR |Cheque No| |Last 6 digits of Account No| <9215676766>
+$Cheque Book Request$ ICBR |Last 6 digits of Account No| <9215676766>
+$View Presented Bills$ IVIEW |Biller Nickname| <9215676766>
+$Balance Enquiry Credit Card$ IBALCC |Last 6 digits of Credit Card| <9215676766>
+$Reward Points Credit Card$ IRPCC |Last 6 digits of Credit Card| <9215676766>
+$Last Payment Credit Card$ ILPCC |Last 6 digits of Credit Card| <9215676766>
+$Payment Due Date Credit Card$ IPDDCC |Last 6 digits of Credit Card| <9215676766>
+$Holding Enquiry DEMAT Account$ IBALD |Last 8 digits of Account| <9215676766>
+$Transaction Status DEMAT Account$ ITRAND |Please enter Document Type and Slip Number| <9215676766>
+$Bill Enquiry DEMAT Account$ IBILLD |Last 8 digits of Account| <9215676766>
+$ISIN Enquiry$ ISIND |Please enter any script descriptor| <9215676766>
+$Loan Account-Welcome Letter$ IWEL |16 digits of Loan Account No| <9215676766>
+$Loan Account-Loan Agreement Copy$ ILAC |16 digits of Loan Account No| <9215676766>
+$Loan Account-Interest Certificate$ IINT |16 digits of Loan Account No| <9215676766>
+$Loan Account-Reschedulement Letter$ IRSL |16 digits of Loan Account No| <9215676766>
+$Loan Account-Reset Letter$ IRTL |16 digits of Loan Account No| <9215676766>
+$Loan Account-Amortisation Schedule$ IAMT |16 digits of Loan Account No| <9215676766>
+$Loan Account-Income Tax Certificate Provisional$ IITP |16 digits of Loan Account No| <9215676766>
+$Loan Account-Income Tax Certificate Final$ IITF |16 digits of Loan Account No| <9215676766>
+$Status of Service Request Raised$ SR |Service Request Number| <9215676766>
+$Locate ATM$ ATM |PINCODE| <9215676766>
+$Locate BRANCH$ BRANCH |PINCODE| <9215676766>
+$Locate Bank At HomeDropBox$ BHOME |PINCODE| <9215676766>
+*+912233667777* @http://www.icicibank.com/index.html@

@@ -1,0 +1,6 @@
+$To Enrolled for IMPS (for Registered SMS banking user only)$ REGIMPS | | <92255250024>
+$Forgot MMID$ MMID | | <9225525002>
+$Forgot Application PIN$ MPINAPP |Request PIN| <9225525002>
+$Transaction with limit less than 5000$ OTPIN |Request PIN| <9225525002>
+$Inter-bank transaction$ IMPS |Beneficiary mobile no| |Beneficiary MMID| |Transaction amount| |OTPIN+last three digits of MMID| <9225525002>
+*0251-2875000* @http://www.dnsbank.in/mobile-banking.htm @

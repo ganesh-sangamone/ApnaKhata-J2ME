@@ -1,0 +1,22 @@
+$Balance Inquiry$ K BAL |Last 4 digits of Account No| <9971056767>
+$Last 3 Transactions$ K TXN |Last 4 digits of Account No| <9971056767>
+$Last 3 months statement on email$ K STMT |Last 4 digits of Account No| <9971056767>
+$Statement on email for a particular month in the current financial year$ K STMT |Last 4 digits of Account No| |First 3 letters of the month| <9971056767>
+$Statement on email for any particular period$ K STMT |Last 4 digits of Account No| |Start Period| |End Period| <9971056767>
+$Cheque Status Inquiry$ K CHQSTATUS |Last 4 digits of Account No| |Cheque No| <9971056767>
+$New Cheque Book Request$ K CHQBOOK |Last 4 digits of Account No| <9971056767>
+$Mobile Money Identifier (MMID) Generation/Retrieval$ K MMID |Last 4 digits of Account No| <9971056767>
+$MMID Cancellation for an account$ K MMIDREVOKE |7 digits MMID of your account| <9971056767>
+$MMID Cancellation for all accounts$ K MMIDCANCEL | | <9971056767>
+$MMID Reinstation$ K MMIDREINST |7 digits MMID of your Account| <9971056767>
+$Know Your Account No (Investment Accounts)$ K MFACCT |Last 4 digits of Customer Relationship Number| <9971056767>
+$Holding Value (Investment Accounts)$ K MFBAL |Last 4 digits of Investment Account| <9971056767>
+$Know Your Account No (Demat Accounts)$ K DPACCT |Last 4 digits of Customer Relationship Number| <9971056767>
+$Holding Value (Demat Accounts)$ K DPBAL |Last 4 digits of Demat Account| <9971056767>
+$Know the nearest ATM$ K ATM |Postal Pincode| <9971056767>
+$Know the nearest Branch$ K BRANCH |Postal Pincode| <9971056767>
+$PIN Regeneration-Net Banking$ K NETPIN |Last 4 digits of Customer Relationship Number| <9971056767>
+$PIN Regeneration-Phone Banking$ K PHONEPIN |Last 4 digits of Customer Relationship Number| <9971056767>
+$PIN Regeneration-Debit Card$ K DEBITPIN |Last4 digits of Debit Card Number| <9971056767>
+$Activation of Debit Card for use at Merchant Establishments$ K POSACT |Last 4 digits of Debit Card Number| <9971056767>
+*+912266006022* @http://www.kotak.com/@ 

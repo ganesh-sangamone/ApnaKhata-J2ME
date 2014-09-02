@@ -1,0 +1,6 @@
+$Balance Enquiry$ BAL |SMS Password| |Account No| <+919810558585>
+$Last 5 Transaction$ TRANS |SMS Password| |Account No| <+919810558585>
+$Cheque Status$ CHQSTS |SMS Password| |Cheque No| |Account No| <+919810558585>
+$Change Password$ CHGPWD |Old Password| |New Password| <+919810558585>
+$Suspend Facility$ SUSP |SMS Password| <+919810558585>
+*+912240919191* @http://www.bankofindia.co.in/@ 

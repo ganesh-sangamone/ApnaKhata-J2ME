@@ -1,0 +1,12 @@
+$Balance Enquiry$ bal | | <5676712>
+$Mini Statement$ txn | | <5676712>
+$Cheque Status Enquiry$ cst |6 digits Cheque No| <5676712>
+$Cheque Book Request$ chq | | <5676712>
+$Stop Cheque$ stp |6 digits Cheque No| <5676712>
+$Request for an Account Statement$ stm | | <5676712>
+$Bill Details$ bil | | <5676712>
+$Fixed Deposit Enquiry$ fdq | | <5676712>
+$Change of Primary Account$ new |14 digits Account No| <5676712>
+$Internet Banking Password (IPIN) regeneration$ ipin | | <5676712>
+$List of Keywords$ help | | <5676712>
+*+912261606161* @http://www.hdfcbank.com/@ 

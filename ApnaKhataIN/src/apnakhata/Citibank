@@ -1,0 +1,9 @@
+$Account Balance$ BAL |Last 4 digits Debit Card No| <+919880752484>
+$Last Salary Credit in Bank Account$ SAL |Last 4 digits Debit Card No| <+919880752484>
+$Nearest ATM$ ATM |Location| <+919880752484>
+$Duplicate Statement$ DUPSTAT |Last 4 digits Debit Card/Credit Card No| <+919880752484>
+$New Cheque Book Request$ CHQBOOK |Last 4 digits Debi tCard/Credit Card No| <+919880752484>
+$Credit card Total Amount Due, Minimum Amount Due and Payment Due Date$ STMT |Last 4 digits Credit Card No| <+919880752484>
+$Credit Card Outstanding with Available Credit Limit$ CARDBAL |Last 4 digits Credit Card No| <+919880752484>
+$Credit Card Reward Points$ REWARDS |Last 4 digits Credit Card No| <+919880752484>
+*18001802484* @http://www.online.citibank.co.in/@ 

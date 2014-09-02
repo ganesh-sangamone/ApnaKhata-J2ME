@@ -1,0 +1,13 @@
+MIDlet-1: ApnaKhataHindi,/apnakhata/Apnakhata_logo.png,apnakhata.ApnakhataHindi
+MIDlet-2: AddBank, , apnakhata.AddBank
+MIDlet-3: ApnaExpense, , apnakhata.ApnaExpense
+MIDlet-4: Activation, , apnakhata.Activation
+MIDlet-Icon: /apnakhata/Apnakhata_logo.png
+MIDlet-Jar-Size: 52862
+MIDlet-Jar-URL: ApnaKhataHindi.jar
+MIDlet-Name: ApnaKhataHindi
+MIDlet-Permissions: javax.microedition.io.Connector.sms, javax.wireless.messaging.sms.send
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0

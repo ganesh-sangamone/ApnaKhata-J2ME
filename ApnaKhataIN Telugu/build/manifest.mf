@@ -1,0 +1,13 @@
+MIDlet-4: Activation, , apnakhata.Activation
+MIDlet-3: ApnaExpense, , apnakhata.ApnaExpense
+MIDlet-2: AddBank, , apnakhata.AddBank
+MIDlet-1: ApnaKhataINTelugu,/apnakhata/Apnakhata_logo.png,apnakhata.ApnaKhataINTelugu
+MIDlet-Permissions: javax.wireless.messaging.sms.send
+MIDlet-Vendor: SangamOne Connected Services
+MIDlet-Name: ApnaKhataINTelugu
+MIDlet-Delete-Notify: Are you sure, you want to remove ApnaKhata? It may contain your Activation details
+MIDlet-Icon: /apnakhata/Apnakhata_logo.png
+MIDlet-Install-Notify: ApnaKhata will not save any of user's data like account no, password, OTP or any other sensetive data
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0

@@ -1,0 +1,10 @@
+$To register for KVB At Mobile facility$ KVBREG | | <56161>
+$Balance enquiry$ KVBBAL | | <56161>
+$Transaction enquiry$ KVBTXN | | <56161>
+$Request for a new cheque book$ KVBCHR | | <56161>
+$Cheque status enquiry$ KVBCHQ | | <56161>
+$Request to stop the payment of a cheque$ KVBCHS | | <56161>
+$Term Deposit enquiry$ KVBTDQ | | <56161>
+$To change default Account number$ KVBACC | | <56161>
+$Help (to get a list of key words)$ KVBHLP | | <56161>
+*18602001916* @http://www.kvb.co.in/@ 

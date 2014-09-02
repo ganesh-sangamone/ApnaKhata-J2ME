@@ -1,0 +1,14 @@
+$Balance Enquiry (Primary Account)$ BAL | | <9717000002>
+$Balance Enquiry (Non-Primary Account)$ BAL |Full or Last 3 digits of Account No| <9717000002>
+$Last 3 Transactions (Primary Account)$ MINI | | <9717000002>
+$Last 3 Transactions (Non-Primary Account)$ MINI |Full or Last 3 digits of Account No| <9717000002>
+$Cheque status$ CHQSTATUS |Last 3 digits of Account No| |Cheque No| <9717000002>
+$Cheque Book Request$ CHQBK |Last 3 digits of Account No| <9717000002>
+$Security balance in Demat account$ DMAT |Client ID| |ISIN Number| <9717000002>
+$Activate SMS Banking$ ACT |Full Account No| <9717000002>
+$De-register from SMS Banking$ SUSPEND |Last 3 digits of Account No| <9717000002>
+$Know your SMS Banking registration date$ REGDATE | | <9717000002>
+$Locate nearest ATM$ ATM |Pincode| <9717000002>
+$Register for E-Statement$ GREEN |Email Id| <9717000002>
+$Get Customer ID$ CUSTID |Full Account No| <9717000002>
+*18002335577* @http://www.axisbank.com/@ 

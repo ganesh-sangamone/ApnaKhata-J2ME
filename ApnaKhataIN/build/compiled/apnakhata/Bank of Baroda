@@ -1,0 +1,4 @@
+$Balance Enquiry$ BAL |Last 4 digits of Account No| <5616150>
+$Mini Statement$ MINI |Last 4 digits of Account No| <5616150>
+$Cheque Status$ CHEQ |Last 4 digits of Account No| |Cheque No| <5616150>
+*1800223344* @http://www.bankofbaroda.com/@ 

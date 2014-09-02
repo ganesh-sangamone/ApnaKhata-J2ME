@@ -1,0 +1,8 @@
+$Balance Enquiry$ BALAVL |Account No| |MPin| <9223181818>
+$Last 3 Transactions$ LATRAN |Account No| |MPin| <9223181818>
+$Cheque Status$ CHQSTS |Cheque No| |Account No| |MPin| <9223181818>
+$Change MPIN$ CHGPIN |New MPin| |Old MPin| <9223181818>
+$Help$ HELP |Operation code| |MPin| <9223181818>
+$Aadhar Seeding$ SEED |Aadhaar Number| |Bank Account No| <9223181818>
+$IMPS Money Transfer$ IMPS |Beneficiary Mobile No| |Beneficiary MMID| |Amount| |MPIN + last 3 digit of remitters MMID| |Remark| <9975494909>
+*18002334526* @http://www.bankofmaharashtra.in/@ 

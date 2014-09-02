@@ -1,0 +1,13 @@
+$Getting User id and Mpin$ Mbsreg | | <9223440000>
+$Change Mpin$ SmPin |User Id| |Old MPin| |New MPin| <9223440000>
+$Accept Terms and Conditions available at www.statebankoftravancore.com$ Saccept |User Id| |MPin| <9223440000>
+$Balance Enquiry$ Sbal |User Id| |MPin| <9223440000>
+$Mini Statement of Account$ Smin |User Id| |MPin| <9223440000>
+$Mobile TopUp$ Stopup |User Id| |MPin| |Telecom Operator| |Mobile No| |Amount| <9223440000>
+$DTH Recharge$ Sdth |User Id| |MPin| |Service Provider| |DTH Serial Number| |Amount| <9223440000>
+$Top up of Mobile wallet$ Smobitop |User Id| |MPin| |Wallet ID| |Amount| <9223440000>
+$Forgot MPIN$ Sfpin |User ID| <9223440000>
+$De-register from Service$ Sdereg | | <9223440000>
+$IMPS fund transfer$ IMPS |Mobile No| |MMID| |Amount| |User Id| |MPin| |Purpose| <9223440000>
+$IMPS Fund Transfer using Account No and IFS Code$ IMPS |Beneficiary Acc No| |Beneficiary IFSC| |Amount| |UserId| |MPin| |Purpose| <9223440000>
+*18004255566* @http://www.statebankoftravancore.com/@ 

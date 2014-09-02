@@ -1,0 +1,10 @@
+$Balance Enquiry$ BAL |Account Nickname| <+919551099007>
+$Last few Transactions$ LTX |Account Nickname| <+919551099007>
+$Cheque Paid Status$ CPS |Account Nickname| |Cheque No| <+919551099007>
+$Suspend ATM/Debit Card$ BLK |Account Nickname| |16 digits ATM Card No| <+919551099007>
+$Loan Balance Enquiry$ LBAL |Loan Account Nickname| <+919551099007>
+$Demat Holding Enquiry$ DHE |Demat Account Nickname| <+919551099007>
+$Demat Script Enquiry$ DCS |Demat Account Nickname| |Script Name| <+919551099007>
+$Demat Bill Enquiry$ DBE |Demat Account Nickname| <+919551099007>
+$Deposit Account Balance Enquiry$ DBAL |Deposit Account Nickname| <+919551099007>
+*18004254445* @http://www.iob.in/@

@@ -1,0 +1,9 @@
+$Balance Enquiry$ BAL |Pin| <+919840777222>
+$List of last four transactions$ TRN |Pin| <+919840777222>
+$Status of a cheque issued$ CSI |Pin| |Cheque No| <+919840777222>
+$Change Mobile Banking PIN$ PIN |Old Pin| |New Pin| <+919840777222>
+$Disable SIB Mobile Service temporarily$ DIS |Pin| <+919840777222>
+$Enable SIB Mobile Service$ ENA |Pin| <+919840777222>
+$Nearest SIB ATMs based on Postal PIN Code$ ATM |Pin| |Pincode| <+919840777222>
+$Fetch Forex Rates based on Currency Code$ FXR |Pin| |Currency Code| <+919840777222>
+*18008431800* @http://www.southindianbank.com/@ 
